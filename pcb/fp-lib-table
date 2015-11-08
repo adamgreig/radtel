@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name radtel)(type KiCad)(uri "$(KIPRJMOD)/radtel.pretty")(options "")(descr ""))
+)
